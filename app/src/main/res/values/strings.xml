@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies  Stage One</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">Sorry, we have problem! :(</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="label_rate">Rate:</string>
+    <string name="label_release_date">Release Date:</string>
+    <string name="label_overview">Overview:</string>
+</resources>
